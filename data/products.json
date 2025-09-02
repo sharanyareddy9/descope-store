@@ -1,17 +1,22 @@
 [
   {
-    "id": 1,
     "handle": "multi-factor-tee",
     "title": "Multi-Factor Tee",
     "body": "<p>Sophisticated design with layered security elements that reveal themselves under different lighting. Just like good MFA - simple on the surface, complex underneath.</p><p>Perfect for developers who appreciate elegant identity solutions.</p><p><strong>Something You Are, Something You Wear</strong></p>",
     "vendor": "Descope",
     "type": "Shirts",
-    "tags": ["auth", "security", "MFA", "developer", "tee"],
+    "tags": [
+      "auth",
+      "security",
+      "MFA",
+      "developer",
+      "tee"
+    ],
     "price": 29.99,
     "compare_at_price": 34.99,
     "sku": "MFT-BASE",
     "inventory_qty": 500,
-    "image_url": "http://localhost:3000/images/multi-factor-tee.png",
+    "image_url": "/images/multi-factor-tee.png",
     "variants": [
       {
         "id": 1,
@@ -64,22 +69,29 @@
         "weight": 200
       }
     ],
-    "created_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2024-01-01T00:00:00Z"
+    "id": 1,
+    "created_at": "2025-09-02T04:46:39.487Z",
+    "updated_at": "2025-09-02T04:46:39.488Z"
   },
   {
-    "id": 2,
     "handle": "descope-mug",
     "title": "Descope Mug",
     "body": "<p>Premium ceramic mug with elegant Descope logo and authentication-themed design. Perfect for your morning coffee while building secure authentication flows.</p><p>Features the Descope brand mark with subtle security-themed graphics.</p><p><strong>Authentication Made Simple</strong></p>",
     "vendor": "Descope",
     "type": "Home & Kitchen",
-    "tags": ["descope", "mug", "coffee", "developer", "authentication", "ceramic"],
+    "tags": [
+      "descope",
+      "mug",
+      "coffee",
+      "developer",
+      "authentication",
+      "ceramic"
+    ],
     "price": 24.99,
     "compare_at_price": 29.99,
     "sku": "DCP-MUG-11",
     "inventory_qty": 50,
-    "image_url": "http://localhost:3000/images/descope-mug.png",
+    "image_url": "/images/descope-mug.png",
     "variants": [
       {
         "id": 6,
@@ -92,22 +104,29 @@
         "weight": 400
       }
     ],
-    "created_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2024-01-01T00:00:00Z"
+    "id": 2,
+    "created_at": "2025-09-02T04:46:39.488Z",
+    "updated_at": "2025-09-02T04:46:39.488Z"
   },
   {
-    "id": 3,
     "handle": "descope-cap",
     "title": "Descope Cap",
     "body": "<p>Premium baseball cap featuring the Descope logo in clean embroidery. Perfect for developers and security professionals who appreciate elegant identity solutions.</p><p>Structured fit with adjustable strap for comfort.</p><p><strong>Wear Your Auth</strong></p>",
     "vendor": "Descope",
     "type": "Hat",
-    "tags": ["descope", "cap", "developer", "baseball-cap", "embroidered", "auth"],
+    "tags": [
+      "descope",
+      "cap",
+      "developer",
+      "baseball-cap",
+      "embroidered",
+      "auth"
+    ],
     "price": 34.99,
     "compare_at_price": 39.99,
     "sku": "DCP-CAP-OS",
     "inventory_qty": 75,
-    "image_url": "http://localhost:3000/images/descope-cap.png",
+    "image_url": "/images/descope-cap.png",
     "variants": [
       {
         "id": 7,
@@ -120,22 +139,29 @@
         "weight": 150
       }
     ],
-    "created_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2024-01-01T00:00:00Z"
+    "id": 3,
+    "created_at": "2025-09-02T04:46:39.488Z",
+    "updated_at": "2025-09-02T04:46:39.488Z"
   },
   {
-    "id": 4,
     "handle": "descope-hoodie",
     "title": "Descope Hoodie",
     "body": "<p>Cozy premium hoodie featuring the Descope logo and subtle authentication-themed design elements. Perfect for staying warm while coding secure flows.</p><p>Premium blend fabric with drawstring hood, kangaroo pocket, and ribbed cuffs.</p><p><strong>Code Secure, Stay Cozy</strong></p>",
     "vendor": "Descope",
     "type": "Clothing",
-    "tags": ["descope", "hoodie", "developer", "authentication", "cozy", "premium"],
+    "tags": [
+      "descope",
+      "hoodie",
+      "developer",
+      "authentication",
+      "cozy",
+      "premium"
+    ],
     "price": 54.99,
     "compare_at_price": 64.99,
     "sku": "DCP-HD-BASE",
     "inventory_qty": 250,
-    "image_url": "http://localhost:3000/images/descope-hoodie.png",
+    "image_url": "/images/descope-hoodie.png",
     "variants": [
       {
         "id": 8,
@@ -188,7 +214,8 @@
         "weight": 500
       }
     ],
-    "created_at": "2024-01-01T00:00:00Z",
-    "updated_at": "2024-01-01T00:00:00Z"
+    "id": 4,
+    "created_at": "2025-09-02T04:46:39.488Z",
+    "updated_at": "2025-09-02T04:46:39.488Z"
   }
 ]
